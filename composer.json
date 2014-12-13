@@ -1,5 +1,5 @@
 {
-    "name":         "gries/minecraft-commands",
+    "name":         "gries/minecraft-commander",
     "description":  "PHP Mincraft-Server client",
     "license":      "MIT",
     "keywords":     ["minecraft", "rcon", "commands"],
@@ -17,7 +17,7 @@
         "phpspec/phpspec": "~2.1"
     },
     "autoload": {
-        "psr-4": {"gries\\Rcon\\": "src"}
+        "psr-4": {"gries\\Minecraft\\Commander": "src"}
     },
     "minimum-stability": "dev"
 }
