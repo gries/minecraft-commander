@@ -1,0 +1,23 @@
+{
+    "name":         "gries/minecraft-commands",
+    "description":  "PHP Mincraft-Server client",
+    "license":      "MIT",
+    "keywords":     ["minecraft", "rcon", "commands"],
+    "type":         "library",
+    "authors":      [
+        {
+            "name":      "Christoph Rosse",
+            "email":     "christoph@rosse.at"
+        }
+    ],
+    "require": {
+        "gries/rcon": "dev-master"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.1"
+    },
+    "autoload": {
+        "psr-4": {"gries\\Rcon\\": "src"}
+    },
+    "minimum-stability": "dev"
+}
