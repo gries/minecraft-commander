@@ -9,7 +9,7 @@ This is a library to send commands (http://minecraft.gamepedia.com/Commands) to 
 Installation
 ------------
 
-MControl can be installed via. Composer:
+minecraft-commander can be installed via. Composer:
 
     composer require "gries/minecraft-commands"
 
