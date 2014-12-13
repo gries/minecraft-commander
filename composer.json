@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "gries/rcon": "dev-master"
+        "gries/rcon": "~0.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.1"
