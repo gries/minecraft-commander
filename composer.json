@@ -17,7 +17,7 @@
         "phpspec/phpspec": "~2.1"
     },
     "autoload": {
-        "psr-4": {"gries\\Minecraft\\Commander": "src"}
+        "psr-4": {"gries\\Minecraft\\Commander\\": "src"}
     },
     "minimum-stability": "dev"
 }

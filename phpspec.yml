@@ -1,0 +1,4 @@
+suites:
+  gries_minecraft_commander_suite:
+    namespace: gries\Minecraft\Commander
+    psr4_prefix: gries\Minecraft\Commander
