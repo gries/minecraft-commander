@@ -1,7 +1,10 @@
 minecraft-commander
 ========
-
 This is a library to send commands (http://minecraft.gamepedia.com/Commands) to a minecraft-server and parse their output.
+
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/1482f1c2-9f71-4b4c-8bb9-0b6e8224969e/big.png)](https://insight.sensiolabs.com/projects/1482f1c2-9f71-4b4c-8bb9-0b6e8224969e)
+
+[![Build Status](https://travis-ci.org/gries/minecraft-commander.png?branch=master)](https://travis-ci.org/gries/rcon)
 
 Installation
 ------------
