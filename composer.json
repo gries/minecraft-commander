@@ -18,6 +18,5 @@
     },
     "autoload": {
         "psr-4": {"gries\\Minecraft\\Commander\\": "src"}
-    },
-    "minimum-stability": "dev"
+    }
 }
